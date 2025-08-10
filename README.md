@@ -20,7 +20,7 @@ Los usuarios deberían poder:
 ![](./design/Screenshot%202025-08-10%20at%2006-58-56%20Frontend%20Mentor%20QR%20code%20component.png)
 
 ### Enlaces
-- URL del sitio en vivo: [Blog tarjeta de previsualización](https://eliamrr.github.io/ResultsSummaryComponent-FrontendMentor/)
+- URL del sitio en vivo: [Blog tarjeta de previsualización](https://eliamrr.github.io/QRcodeComponent-FrontendMentor/)
 
 ## Mi proceso
 ### Construido con
