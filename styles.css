@@ -1,0 +1,61 @@
+*{
+    --White: hsl(0, 0%, 100%);
+    --Slate_300: hsl(212, 45%, 89%);
+    --Slate_500: hsl(216, 15%, 48%);
+    --Slate_900: hsl(218, 44%, 22%);
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--Slate_300);
+    
+    /* Eliminar */
+    /* background-image: url(./design/desktop-design.jpg); */
+    /* background-position: center; */
+    /* background-position: -14em; */
+    main{
+        padding: 1em;
+        width: 20em;
+        height: 31.3em;
+        border-radius: 1.5em;
+        text-align: center;
+        background-color: var(--White);
+        /* Eliminar */
+        /* background-color: rgba(255, 0, 8, 0.279); */
+        .caja-img{
+            .img{
+                width: 100%;
+                height: 100%;
+                background-size: cover;
+                border-radius: 0.6em;
+            }
+        }
+        .caja-texto{
+            padding: 1.2em 0.5em;
+            h2{
+                text-align: center;
+                font-size: 1.4em;
+                line-height: 1.2em;
+                color: var(--Slate_900);
+            }
+            p{
+                font-size: 0.95em;
+                padding: 1em 0.3em;
+                font-weight: 500;
+                line-height: 1.4em;
+                color: var(--Slate_500);
+            }
+        }
+    }
+
+
+}
+
